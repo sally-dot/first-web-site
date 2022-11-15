@@ -1,0 +1,42 @@
+* {
+  color: #4C4E52;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+}
+
+span {
+  text-align: left;
+  font-size: 20px;
+  margin-right: 100px;
+}
+
+img {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.image-center {
+  position: relative;
+}
+
+.top-center {
+  position: absolute;
+  top: 5%;
+  left: 35%;
+  transform: translate(-5%, -35%)
+}
+
+.text-center {
+  text-align: center;
+}
+
+.color-lightgray {
+  color: lightgray;
+}
